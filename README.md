@@ -11,3 +11,7 @@ This is an ongoing reference and will be expanded over time.
 - [Client–Server Architecture](/docs/fundamentals-of-networking/client-server-architecture.md)
 - [OSI Model](/docs/fundamentals-of-networking/osi-model.md)
 - [MAC, IP, and Ports](/docs/fundamentals-of-networking/mac-ip-ports.md)
+
+### [Internet Protocol (IP)](/docs/internet-protocol)
+- [IP Building Blocks](/docs/internet-protocol/ip-building-blocks.md)
+- [IP Packet](/docs/internet-protocol/ip-packet.md)
