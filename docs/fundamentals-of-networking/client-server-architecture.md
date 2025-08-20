@@ -55,7 +55,7 @@ A functioning client–server system requires a **communication model** to defin
 
 * **Protocol**: The set of rules for request/response (e.g., [HTTP](https://github.com/pourist/API-and-Web-Services-Fundamentals/blob/main/docs/fundamentals/http.md), WebSocket, gRPC).
 * **Data format**: The structure of exchanged data (e.g., JSON, XML, binary).
-* **Connection type**: Whether communication is connection-oriented (TCP) or connectionless (UDP).
+* **Connection type**: Whether communication is connection-oriented (TCP) or connectionless ([UDP](/docs/udp/udp.md)).
 
 For example:
 

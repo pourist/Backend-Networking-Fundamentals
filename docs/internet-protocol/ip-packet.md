@@ -19,7 +19,7 @@ An IPv4 packet is composed of two main parts:
 
    * An [HTTP](https://github.com/pourist/API-and-Web-Services-Fundamentals/blob/main/docs/fundamentals/http.md) request or response
    * A DNS query
-   * Part of a TCP or UDP segment
+   * Part of a TCP or [UDP](/docs/udp/udp.md) segment
 
 The **header** has a minimum size of **20 bytes**, but it can grow up to **60 bytes** if optional fields are included.
 The **payload** can be anywhere from a few bytes up to a maximum of **65,535 bytes** (defined by the **Total Length** field). In reality, payload sizes are much smaller because of constraints like the **Maximum Transmission Unit (MTU)**, for example, Ethernet’s common MTU is **1500 bytes**.

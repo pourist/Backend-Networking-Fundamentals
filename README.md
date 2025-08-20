@@ -5,6 +5,8 @@ Designed to give a clear understanding of how data moves from client to server, 
 
 This is an ongoing reference and will be expanded over time.
 
+---
+
 ## Recommended Reading Order
 
 ### [Fundamentals of Networking](/docs/fundamentals-of-networking)
@@ -14,4 +16,12 @@ This is an ongoing reference and will be expanded over time.
 
 ### [Internet Protocol (IP)](/docs/internet-protocol)
 - [IP Building Blocks](/docs/internet-protocol/ip-building-blocks.md)
-- [IP Packet](/docs/internet-protocol/ip-packet.md)
+- [IPv4 Packet Structure](/docs/internet-protocol/ip-packet.md)
+- [ARP (Address Resolution Protocol)](/docs/internet-protocol/arp.md)
+- [ICMP, Ping, and Traceroute](/docs/internet-protocol/icmp-ping-tracerout.md)
+
+### [User Datagram Protocol (UDP)](/docs/udp)
+- [Introduction to UDP](/docs/udp/udp.md)
+- [UDP Receiver Example in C](/docs/udp/udp-server-with-c/Readme.md)
+
+---

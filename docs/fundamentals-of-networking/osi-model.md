@@ -32,7 +32,7 @@ The OSI model solves this by defining **a universal structure** for data exchang
 | 7     | **Application**  | Interfaces with the user-facing software, handling high-level protocols and user data. | [HTTP](https://github.com/pourist/API-and-Web-Services-Fundamentals/blob/main/docs/fundamentals/http.md), FTP, gRPC |
 | 6     | **Presentation** | Formats, encrypts, or compresses data for transmission.                                | JSON serialization, TLS encryption       |
 | 5     | **Session**      | Establishes, manages, and terminates communication sessions.                           | TLS handshake, session tokens                                        |
-| 4     | **Transport**    | Provides reliable delivery, segmentation, and error handling.                          | [TCP](../fundamentals/tcp.md), [UDP](../fundamentals/udp.md)         |
+| 4     | **Transport**    | Provides reliable delivery, segmentation, and error handling.                          | [TCP](../fundamentals/tcp.md), [UDP](/docs/udp/udp.md)         |
 | 3     | **Network**      | Handles addressing and routing of packets between devices.                             | [IP](./mac-ip-ports.md), ICMP                                    |
 | 2     | **Data Link**    | Packages packets into frames for transmission over a local link.                       | Ethernet, Wi-Fi                                                      |
 | 1     | **Physical**     | Transmits raw bits over the physical medium.                                           | Fiber optics, radio waves, copper cables                             |
